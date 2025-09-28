@@ -3,7 +3,8 @@
 ### 1. Atidarykite terminalą ir eikite į projekto aplanką
 
 ```sh
-cd /home/artur/Desktop/artur_uvarov_egzaminas_2025
+cd /home/artur/Desktop/GraphQL_Events_System
+
 ```
 
 ### 2. Įdiekite priklausomybes
